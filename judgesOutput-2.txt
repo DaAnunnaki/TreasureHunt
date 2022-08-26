@@ -1,0 +1,7 @@
+The shortest route to the treasure is 165 miles long.
+Directions:
+Go straight 45 miles
+Turn right 82 degrees
+Go straight 5 miles
+Turn right 93 degrees
+Go straight 115 miles
